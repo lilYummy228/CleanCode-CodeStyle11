@@ -3,6 +3,6 @@
     internal class Program
     {       
         public void Shoot(Player player) { }
-        public string Find(int index) { }
+        public string Find(int index) { } 
     }
 }
